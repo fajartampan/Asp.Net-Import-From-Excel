@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportExcelToMySQL", "ImportExcelToMySQL\ImportExcelToMySQL.csproj", "{71EEEF78-2269-4BAD-96F9-BB27FAA2C23B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportExcelToMySQL", "ImportExcelToMySQL.csproj", "{71EEEF78-2269-4BAD-96F9-BB27FAA2C23B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2D9FFD24-7FE6-4D02-84C0-F02F58670961}
+		SolutionGuid = {D1271D66-2DC7-4EEC-9755-D0E5DA424912}
 	EndGlobalSection
 EndGlobal
